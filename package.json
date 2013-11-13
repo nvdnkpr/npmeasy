@@ -1,0 +1,20 @@
+{
+    "author": "Matt Schmulen",
+    "name": "npmeasy",
+    "description": "Prints out data to the console! Will be iterating soon for real functionality!",
+    "version": "0.1.0",
+    "repository": {
+        "url": "git@github.com:mschmulen/npmeasy.git"
+    },
+    "main": "./lib/main",
+    "bin": {
+        "replaceme": "./bin/npmeasy"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
+
